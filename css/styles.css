@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+.test-link{
+    color: #000;
+}
+
+.test-link:hover,
+.test-link:focus{
+    color: blueviolet;
+}
+
+.test-link:active{
+    color: darkgreen;
+}
+ 
